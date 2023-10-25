@@ -1,1 +1,1 @@
-# nyc-crime-reduction
+This project is a comprehensive data warehouse system designed to collect, store, and analyze diverse complaints data from various city agencies in New York City. The system encompasses efficient ETL (Extract, Transform, Load) processes, user-friendly dashboards for data visualization, and tools to identify trends, patterns, and insights within the dataset. It offers a valuable resource for those interested in understanding and exploring crime complaints data in NYC, enabling data-driven decision-making and fostering a safer city.
